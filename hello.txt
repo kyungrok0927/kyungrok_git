@@ -17,4 +17,5 @@
 	<li>push</li>
 	<li>pull</li>
 	<li>push sourcetree<li>
+	<li>pull.remote<li/>
 </ul>
