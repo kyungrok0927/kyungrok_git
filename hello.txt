@@ -1,4 +1,6 @@
-<head></head>
+<head>
+	<title>GIT</title>
+</head>
 1
 2
 3
