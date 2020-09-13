@@ -18,4 +18,5 @@
 	<li>pull</li>
 	<li>push sourcetree<li>
 	<li>pull.remote<li/>
+	<li>pull.remote2<li/>
 </ul>
