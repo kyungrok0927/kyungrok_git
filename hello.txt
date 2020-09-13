@@ -20,4 +20,5 @@
 	<li>push sourcetree<li>
 	<li>pull.remote<li/>
 	<li>pull.remote2<li/>
+	<li>conflict.sourcetree</li>
 </ul>
