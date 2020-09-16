@@ -9,4 +9,5 @@
 	<li>GIT 이란?</li>
 	<li>버전</li>
 	<li>브런치<li>
+	<li>롤롤롤</li>
 </ul>
