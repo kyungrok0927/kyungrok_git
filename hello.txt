@@ -31,4 +31,5 @@
 	<li>케넨</li>
 	<li>요릭</li>
 	<li>remote 추가1</li>
+	<li>remote 추가2</li>
 </ul>
