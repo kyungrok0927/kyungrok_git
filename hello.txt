@@ -30,4 +30,5 @@
 	<li>레넥톤</li>
 	<li>케넨</li>
 	<li>요릭</li>
+	<li>remote 추가1</li>
 </ul>
