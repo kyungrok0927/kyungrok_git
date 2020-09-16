@@ -22,4 +22,5 @@
 	<li>pull.remote2<li/>
 	<li>conflict.remote</li>
 	<li>conflict.sourcetree</li>
+	<li>json이란?</li>
 </ul>
