@@ -26,4 +26,8 @@
 	<li>pull.remote2<li/>
 	<li>conflict.remote</li>
 	<li>conflict.sourcetree</li>
+	<li>롤롤롤</li>
+	<li>레넥톤</li>
+	<li>케넨</li>
+	<li>요릭</li>
 </ul>
