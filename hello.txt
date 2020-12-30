@@ -1,22 +1,5 @@
-sssasdasasasdasd<head>
-	<meta charset='UTF-8">
-	<title>GIT</title>
-</head>
-<body>
-	<li>wow oh!!</li>
-	<li>리그오브젠드</li>asas
-</body>sas
 1
 2
 3
 5
-<ul>asdasd
-5555555555555555
-	낚시의 신
-7777777777777777
-444444444444444
-2222222222222222ss
-3333333333333333
-</ul>sss
-ssssssssssssssssssssssssssssssssssssssss
-rrrrrrrrrrrrrrrrrrrrrrrr
+ssss
